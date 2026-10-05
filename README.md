@@ -145,7 +145,7 @@ The [`Diagrams`](Diagrams/) directory contains the simulation results:
 * [`Diagrams/`](Diagrams/) — Simulation plots and comparison figures
 * [`ploting_things.m`](ploting_things.m) — MATLAB script for extracting and plotting simulation signals
 * [`PersianReport.pdf`](docs/reciprocating-pump-dynamics-fa.pdf)
-* [`EnglishReport.pdf`](Reciprocating_Pump_Dynamics_English.pdf)
+* [`EnglishReport.pdf`](docs/Reciprocating_Pump_Dynamics_English.pdf)
 
 ## Requirements
 
