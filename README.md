@@ -146,8 +146,8 @@ The [`Diagrams`](Diagrams/) directory contains the simulation results:
 * [`SimulationWithoutFlywheel.slx`](SimulationWithoutFlywheel.slx) — Simscape Multibody model without the flywheel
 * [`Diagrams/`](Diagrams/) — Simulation plots and comparison figures
 * [`ploting_things.m`](ploting_things.m) — MATLAB script for extracting and plotting simulation signals
-* [`The Project.pdf`](The%20Project.pdf) — Project report
-* [`The Project.docx`](The%20Project.docx) — Editable project report
+* [`PersianReport.pdf`](The%20Project.pdf)
+* [`EnglishReport.pdf`](The%20Project.docx)
 
 ## Requirements
 
