@@ -146,7 +146,7 @@ The [`Diagrams`](Diagrams/) directory contains the simulation results:
 * [`SimulationWithoutFlywheel.slx`](SimulationWithoutFlywheel.slx) — Simscape Multibody model without the flywheel
 * [`Diagrams/`](Diagrams/) — Simulation plots and comparison figures
 * [`ploting_things.m`](ploting_things.m) — MATLAB script for extracting and plotting simulation signals
-* [`PersianReport.pdf`](reciprocating-pump-dynamics-fa.pdf)
+* [`PersianReport.pdf`](docs/reciprocating-pump-dynamics-fa.pdf)
 * [`EnglishReport.pdf`](The%20Project.docx)
 
 ## Requirements
