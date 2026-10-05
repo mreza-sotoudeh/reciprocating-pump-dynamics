@@ -1,5 +1,3 @@
-# reciprocating-pump-dynamics
-Dynamic simulation of a reciprocating pump mechanism and flywheel torque analysis in MATLAB/Simulink and Simscape Multibody
 # Reciprocating Pump Dynamics
 
 Dynamic simulation and analysis of a reciprocating pump mechanism using MATLAB/Simulink and Simscape Multibody.
